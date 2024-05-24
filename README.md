@@ -9,7 +9,7 @@ https://drive.google.com/drive/folders/1WnYyEzhamgzodceLkuQlrK-JPDQVFjKB?usp=dri
 
   Path: Colab Notebooks/public-data/models/
 
-##Experimental Setup:
+## Experimental Setup:
 
 ➔	Run the Python code for the private-data and public-data in Google Colab, Jupyter Notebook.
 
