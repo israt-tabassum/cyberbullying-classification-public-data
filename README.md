@@ -11,7 +11,7 @@ https://drive.google.com/drive/folders/1WnYyEzhamgzodceLkuQlrK-JPDQVFjKB?usp=dri
 
 ## Experimental Setup:
 
-➔	Run the Python code for the private-data and public-data in Google Colab, Jupyter Notebook.
+➔	Run the Python code for the public-data in Google Colab, or Jupyter Notebook.
 
 ◆	Ensure that all paths in the code are properly configured to match the environment.
 
