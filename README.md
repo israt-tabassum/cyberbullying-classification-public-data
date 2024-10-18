@@ -1,6 +1,6 @@
 # cyberbullying-classification-public-data
 
-## Image dataset are available here:
+## Datasets are available here:
 https://drive.google.com/drive/folders/1WnYyEzhamgzodceLkuQlrK-JPDQVFjKB?usp=drive_link
 
   Path: Colab Notebooks/public-data/image/dataset/
